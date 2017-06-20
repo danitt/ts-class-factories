@@ -1,4 +1,4 @@
-import { Pizza, PizzaOptionsInterface } from './../Pizzas/_Pizza.class'
+import { Pizza } from './../Pizzas/_Pizza.class'
 
 export interface StorePizzaTypeInterface {
   name: string,
